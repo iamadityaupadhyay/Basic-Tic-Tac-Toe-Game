@@ -27,6 +27,8 @@ body{
 }
 
 .box{
+    background-color:#748CAB;
+    border-radius:30%;
    height:18vmin;
    width:18vmin;
 }
@@ -37,16 +39,4 @@ body{
     border-radius: 5px;
     border-color: none;
     
-}
-.back{
-    width:18vmin;
-    height:10vmin;
-    border-radius: 5px;
-    border-color: none;
-}
-.reset{
-    width:18vmin;
-    height:10vmin;
-    border-radius: 5px;
-    border-color: none;
 }
